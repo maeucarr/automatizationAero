@@ -1,0 +1,11 @@
+#THIS FILE CONTENT THE TEST COMMANDS#
+
+STEP 1: cd C:\Users\MariaEspinoza\PycharmProjects\Aeropay_Automation\TestCases (user path but needed to be on TestCases dir)
+
+LOGIN COMMAND
+
+pytest -o cache_dir=./__pycache__ test_Aeropay_LoginPage.py
+
+CREATE NEW USER COMMAND
+
+pytest -o cache_dir=./__pycache__ test_Aeropay_CreateNewAccountPage.py

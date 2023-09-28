@@ -1,0 +1,8 @@
+[
+  "test_Aeropay_CreateNewAccountPage.py::Test_Aeropay_Create_Account::test_Aeropay_incorrect_create_user[data_row0]",
+  "test_Aeropay_LoginPage.py::Test_Aeropay_LoginPage::test_Aeropay_incorrect_login[data_row0]",
+  "test_Aeropay_LoginPage.py::Test_Aeropay_LoginPage::test_Aeropay_incorrect_login[data_row1]",
+  "test_Aeropay_LoginPage.py::Test_Aeropay_LoginPage::test_Aeropay_incorrect_login_1",
+  "test_Aeropay_LoginPage.py::Test_Aeropay_LoginPage::test_Aeropay_incorrect_login_2",
+  "test_Aeropay_LoginPage.py::Test_Aeropay_LoginPage::test_Aeropay_login"
+]

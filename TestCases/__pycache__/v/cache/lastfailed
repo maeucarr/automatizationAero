@@ -1,0 +1,4 @@
+{
+  "test_Aeropay_LoginPage.py::Test_Aeropay_LoginPage::test_Aeropay_incorrect_login_1": true,
+  "test_Aeropay_LoginPage.py::Test_Aeropay_LoginPage::test_Aeropay_incorrect_login_2": true
+}
